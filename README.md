@@ -1,3 +1,8 @@
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/dominiksipowicz/simple-gpt-chain)
+
+
+read more about Vercel `ai` [SDK here](https://sdk.vercel.ai/docs/getting-started)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
